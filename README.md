@@ -9,3 +9,6 @@ The data is 3 years old and all student data is anonymised to protect identity o
 
 Ideally I would like this model to be used at the end of the teaching cycle for departments to use to predict marks and hence can be used to define grade boundaries and plan ahead for Year 13 resources, class sizes as well as potential students who may fail based on the average of their 4 half termly assessments.
 
+Description of steps:
+
+
